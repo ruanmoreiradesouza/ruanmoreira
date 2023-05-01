@@ -1,0 +1,14 @@
+\documentclass[arial, 11pt]{article}
+\usepackage{graphicx} % Required for inserting images
+\usepackage{geometry}
+\usepackage{graphicx}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath,amssymb}
+\usepackage[brazil]{babel}
+\geometry{left=3cm,right=2cm, top=3cm, bottom=2cm}
+\title{Relatório Introdutório}
+\usepackage{indentfirst}
+
+\author{Ruan M. de Souza}
+\date{April 2023}
+\begin{document}
